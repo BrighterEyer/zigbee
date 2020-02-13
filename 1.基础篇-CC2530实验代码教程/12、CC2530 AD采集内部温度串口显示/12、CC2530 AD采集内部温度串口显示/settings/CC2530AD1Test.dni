@@ -1,0 +1,62 @@
+[CodeCoverage]
+Enabled=_ 0
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[DebugChecksum]
+Checksum=882650258
+[InstructionProfiling]
+Enabled=_ 0
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "I:\店铺\产品\Zigbee 【成熟】\资料\自己改了其他公司的\CC2530开发套件【佳杰科技】\基础实验\Q2530SB\CC2530ADTest\CC2530AD1Test.c" "E:\Zigbee佳杰科技配套资料最新版\配套实验程序和文档\基础实验\13、CC2530 AD采集内部温度串口显示\CC2530ADTest\CC2530AD1Test.c"
+A1=_ "I:\店铺\产品\Zigbee 【成熟】\资料\自己改了其他公司的\CC2530开发套件【佳杰科技】\基础实验\Q2530SB\CC2530ADTest\include\initUART_Timer.h" ""
+Count=2
+SuppressDialog=1
