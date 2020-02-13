@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>per_test/srf05_cc2530</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>218</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>4</Position><ScreenPosX>71</ScreenPosX><ScreenPosY>126</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>4</Position><ScreenPosX>334</ScreenPosX><ScreenPosY>595</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>24</ColumnWidth0><ColumnWidth1>1217</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>495</ColumnWidth0><ColumnWidth1>70</ColumnWidth1><ColumnWidth2>849</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-23610-22371</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>per_test</ExpandedNode><ExpandedNode>per_test/Output</ExpandedNode><ExpandedNode>per_test/application</ExpandedNode><ExpandedNode>per_test/basic rf</ExpandedNode><ExpandedNode>per_test/hal</ExpandedNode><ExpandedNode>per_test/utilities</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-21582-22818</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-30550-15859</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-9876-3521</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\targets\interface\hal_uart.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>1231</SelStart><SelEnd>1231</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\apps\per_test\per_test.h</Filename><XPos>0</XPos><YPos>7</YPos><SelStart>620</SelStart><SelEnd>635</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\targets\srf05_soc\hal_board.c</Filename><XPos>0</XPos><YPos>43</YPos><SelStart>1461</SelStart><SelEnd>1471</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\radios\cc2530\hal_mcu.c</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>806</SelStart><SelEnd>821</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\targets\srf05_soc\hal_led.c</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>1013</SelStart><SelEnd>1013</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\apps\per_test\per_test_menu.c</Filename><XPos>0</XPos><YPos>153</YPos><SelStart>3217</SelStart><SelEnd>3230</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\radios\cc2530\hal_rf.c</Filename><XPos>0</XPos><YPos>305</YPos><SelStart>6851</SelStart><SelEnd>6851</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\common\hal_defs.h</Filename><XPos>0</XPos><YPos>4</YPos><SelStart>575</SelStart><SelEnd>575</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\apps\per_test\per_test.c</Filename><XPos>0</XPos><YPos>426</YPos><SelStart>13019</SelStart><SelEnd>13019</SelEnd></Tab><ActiveTab>8</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\targets\srf05_soc\hal_board.h</Filename><XPos>0</XPos><YPos>115</YPos><SelStart>2249</SelStart><SelEnd>2249</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\radios\cc2530\clock.c</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>1760</SelStart><SelEnd>1760</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Program Files\IAR Systems\Embedded Workbench 6.0 Evaluation\8051\config\devices\Texas Instruments\lnk51ew_cc2530F256_banked.xcl</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>2145</SelStart><SelEnd>2145</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012ead58><key>iaridepm.enu1</key></Toolbar-012ead58></Sizes></Row0><Row1><Sizes><Toolbar-03e19778><key>debuggergui.enu1</key></Toolbar-03e19778></Sizes></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>504</Bottom><Right>309</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>153</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>211326</sizeHorzCY><sizeVertCX>242969</sizeVertCX><sizeVertCY>698895</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>175</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>177</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>244475</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>211326</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

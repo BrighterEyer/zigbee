@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1035</ColumnWidth1>
+        <ColumnWidth2>276</ColumnWidth2>
+        <ColumnWidth3>69</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>241</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4646-25521</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-4123-25531</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15394-25525</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws></ExpandedNode><ExpandedNode>&lt;ws>/light_switch</ExpandedNode><ExpandedNode>&lt;ws>/light_switch/application</ExpandedNode><ExpandedNode>&lt;ws>/light_switch/basic rf</ExpandedNode><ExpandedNode>per_test</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26143-25528</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98De;&#x6BD4;&#x5149;&#x76D8;\BasicRF&#x5B9e;&#x9A8C;&#x53CA;&#x6e90;&#x7A0B;&#x5e8F;\CC2530 BasicRF\CC2530 BasicRF\source\Components\basicrf\basic_rf.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1089</SelStart><SelEnd>1089</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;\CC2530 BasicRF\source\Components\targets\common\hal_lcd_srf05.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>522</SelStart><SelEnd>522</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;\CC2530 BasicRF\source\apps\light_switch\light_switch.c</Filename><XPos>0</XPos><YPos>299</YPos><SelStart>8971</SelStart><SelEnd>8971</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;\CC2530 BasicRF\source\Components\targets\srf05_soc\hal_button.c</Filename><XPos>0</XPos><YPos>59</YPos><SelStart>1973</SelStart><SelEnd>1973</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;\CC2530 BasicRF\source\Components\common\hal_int.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;\CC2530 BasicRF\source\Components\basicrf\basic_rf.c</Filename><XPos>0</XPos><YPos>584</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;\CC2530 BasicRF\source\Components\targets\srf05_soc\hal_joystick.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>646</SelStart><SelEnd>646</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\targets\srf05_soc\hal_joystick.c</Filename><XPos>0</XPos><YPos>111</YPos><SelStart>522</SelStart><SelEnd>522</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\apps\light_switch\light_switch.c</Filename><XPos>0</XPos><YPos>203</YPos><SelStart>5742</SelStart><SelEnd>5742</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\targets\srf05_soc\hal_board.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1461</SelStart><SelEnd>1461</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\targets\srf05_soc\hal_board.h</Filename><XPos>0</XPos><YPos>110</YPos><SelStart>3701</SelStart><SelEnd>3701</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\common\cc8051\hal_cc8051.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1764</SelStart><SelEnd>1764</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\common\hal_int.c</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>722</SelStart><SelEnd>722</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\basicrf\basic_rf.c</Filename><XPos>0</XPos><YPos>113</YPos><SelStart>13312</SelStart><SelEnd>13312</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\apps\per_test\per_test.c</Filename><XPos>0</XPos><YPos>393</YPos><SelStart>12250</SelStart><SelEnd>12250</SelEnd></Tab><ActiveTab>14</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\targets\srf05_soc\hal_led.c</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>978</SelStart><SelEnd>978</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\targets\interface\hal_button.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>607</SelStart><SelEnd>607</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\targets\srf05_soc\hal_button.c</Filename><XPos>0</XPos><YPos>50</YPos><SelStart>1885</SelStart><SelEnd>1885</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\apps\per_test\per_test_menu.c</Filename><XPos>0</XPos><YPos>200</YPos><SelStart>4005</SelStart><SelEnd>4005</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\utils\util_lcd.c</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>2562</SelStart><SelEnd>2562</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\targets\common\hal_lcd_srf05.c</Filename><XPos>0</XPos><YPos>286</YPos><SelStart>14139</SelStart><SelEnd>14139</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\radios\cc2530\hal_mcu.c</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>806</SelStart><SelEnd>806</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6211;&#x7684;2530\CC2530 BasicRF&#xFF08;&#x70B9;&#x5BF9;&#x70B9;&#x901A;&#x4Fe1;&#xFF09;&#x57FA;&#x4e8e;BB&#x677F;\source\Components\radios\cc2530\clock.c</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>1683</SelStart><SelEnd>1683</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01389218><key>iaridepm.enu1</key></Toolbar-01389218></Sizes></Row0><Row1><Sizes><Toolbar-07cdac80><key>debuggergui.enu1</key></Toolbar-07cdac80></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>557</Bottom><Right>315</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>138889</sizeHorzCX><sizeHorzCY>242718</sizeHorzCY><sizeVertCX>220139</sizeVertCX><sizeVertCY>678398</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>557</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>138889</sizeHorzCX><sizeHorzCY>242718</sizeHorzCY><sizeVertCX>138889</sizeVertCX><sizeVertCY>678398</sizeVertCY></Rect></Wnd2></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>200</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>242718</sizeHorzCY><sizeVertCX>138889</sizeVertCX><sizeVertCY>242718</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
