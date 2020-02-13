@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ZIGBEE网关创思通信</string>
+    <string name="WifiCam">Csgsm</string>
+     <string name="WifiCam1">csgsm.com</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ZIGBEE网关创思通信</string>
+    <string name="connect">www.csgsm.com</string>
+    <string name="get">Close</string>
+</resources>

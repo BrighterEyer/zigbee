@@ -1,0 +1,27 @@
+# Microsoft Developer Studio Generated Dependency File, included by Client2.mak
+
+.\Client2.cpp : \
+	".\Client2.h"\
+	".\Client2Dlg.h"\
+	
+
+.\Client2.rc : \
+	".\res\Client2.ico"\
+	".\res\Client2.rc2"\
+	
+
+.\Client2Dlg.cpp : \
+	".\Client2.h"\
+	".\Client2Dlg.h"\
+	".\Picture.h"\
+	
+
+.\Picture.cpp : \
+	".\Client2.h"\
+	".\Picture.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"d:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	

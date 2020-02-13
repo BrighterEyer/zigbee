@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>CC2530_IRDecod_UART_LCD/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>139</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>23</ColumnWidth0><ColumnWidth1>1393</ColumnWidth1><ColumnWidth2>371</ColumnWidth2><ColumnWidth3>92</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>23</ColumnWidth0><ColumnWidth1>1858</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1761-21780</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>CC2530_IRDecod_UART_LCD</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30494-24517</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-5850-29096</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UART2.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1463</SelStart><SelEnd>1463</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UART2.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>32</SelStart><SelEnd>32</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\LCD12864.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>173</SelStart><SelEnd>173</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\IRDecod.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>565</SelStart><SelEnd>565</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\IRDecod.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1</SelStart><SelEnd>244</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\hal_types.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>913</SelStart><SelEnd>913</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\LCD12864.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>168</SelStart><SelEnd>168</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\codetab.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1603</SelStart><SelEnd>1603</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>14</YPos><SelStart>623</SelStart><SelEnd>623</SelEnd></Tab><ActiveTab>8</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012eb978><key>iaridepm.enu1</key></Toolbar-012eb978></Sizes></Row0><Row1><Sizes><Toolbar-0cead6b0><key>debuggergui.enu1</key></Toolbar-0cead6b0></Sizes></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>337</Bottom><Right>213</Right><x>-2</x><y>-2</y><xscreen>70</xscreen><yscreen>92</yscreen><sizeHorzCX>48883</sizeHorzCX><sizeHorzCY>129577</sizeHorzCY><sizeVertCX>150140</sizeVertCX><sizeVertCY>477465</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>328</Bottom><Right>1434</Right><x>-2</x><y>-2</y><xscreen>1436</xscreen><yscreen>330</yscreen><sizeHorzCX>1002793</sizeHorzCX><sizeHorzCY>464789</sizeHorzCY><sizeVertCX>48883</sizeVertCX><sizeVertCY>129577</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
